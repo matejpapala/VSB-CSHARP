@@ -1,0 +1,14 @@
+/Users/matejpapala/School/VSB-CSHARP/bin/Debug/net9.0/VSB-CSHARP
+/Users/matejpapala/School/VSB-CSHARP/bin/Debug/net9.0/VSB-CSHARP.deps.json
+/Users/matejpapala/School/VSB-CSHARP/bin/Debug/net9.0/VSB-CSHARP.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/bin/Debug/net9.0/VSB-CSHARP.dll
+/Users/matejpapala/School/VSB-CSHARP/bin/Debug/net9.0/VSB-CSHARP.pdb
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/VSB-CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/VSB-CSHARP.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/VSB-CSHARP.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/VSB-CSHARP.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/VSB-CSHARP.dll
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/refint/VSB-CSHARP.dll
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/VSB-CSHARP.pdb
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/VSB-CSHARP.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/obj/Debug/net9.0/ref/VSB-CSHARP.dll
