@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/bin/Debug/net9.0/cviceni2(tetris)
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/bin/Debug/net9.0/cviceni2(tetris).deps.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/bin/Debug/net9.0/cviceni2(tetris).runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/bin/Debug/net9.0/cviceni2(tetris).dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/bin/Debug/net9.0/cviceni2(tetris).pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/refint/cviceni2(tetris).dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/cviceni2(tetris).genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni2/obj/Debug/net9.0/ref/cviceni2(tetris).dll
