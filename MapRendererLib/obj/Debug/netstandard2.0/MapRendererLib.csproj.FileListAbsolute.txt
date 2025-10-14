@@ -1,0 +1,11 @@
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/bin/Debug/netstandard2.0/MapRendererLib.deps.json
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/bin/Debug/netstandard2.0/MapRendererLib.dll
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/bin/Debug/netstandard2.0/MapRendererLib.pdb
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.csproj.AssemblyReference.cache
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.dll
+/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.pdb

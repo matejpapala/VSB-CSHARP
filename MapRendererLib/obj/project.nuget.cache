@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSWTYCLjkqg=",
+  "success": true,
+  "projectFilePath": "/Users/matejpapala/School/VSB-CSHARP/MapRendererLib/MapRendererLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/matejpapala/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/matejpapala/.nuget/packages/system.drawing.common/9.0.9/system.drawing.common.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/DU1/bin/Debug/net9.0/DU1
+/Users/matejpapala/School/VSB-CSHARP/DU1/bin/Debug/net9.0/DU1.deps.json
+/Users/matejpapala/School/VSB-CSHARP/DU1/bin/Debug/net9.0/DU1.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/DU1/bin/Debug/net9.0/DU1.dll
+/Users/matejpapala/School/VSB-CSHARP/DU1/bin/Debug/net9.0/DU1.pdb
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.dll
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/refint/DU1.dll
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.pdb
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/DU1.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/DU1/obj/Debug/net9.0/ref/DU1.dll
