@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/bin/Debug/net9.0/Calendar
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/bin/Debug/net9.0/Calendar.deps.json
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/bin/Debug/net9.0/Calendar.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/bin/Debug/net9.0/Calendar.dll
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/bin/Debug/net9.0/Calendar.pdb
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.dll
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/refint/Calendar.dll
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.pdb
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/Calendar.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/DU2/Calendar/obj/Debug/net9.0/ref/Calendar.dll
