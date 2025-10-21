@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/bin/Debug/net9.0/Workplace
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/bin/Debug/net9.0/Workplace.deps.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/bin/Debug/net9.0/Workplace.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/bin/Debug/net9.0/Workplace.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/bin/Debug/net9.0/Workplace.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/refint/Workplace.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/Workplace.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni6/Workplace/obj/Debug/net9.0/ref/Workplace.dll

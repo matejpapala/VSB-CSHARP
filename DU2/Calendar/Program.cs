@@ -7,7 +7,6 @@ class Program
     {
         Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("cs-CZ");
         string txt = File.ReadAllText(args[0]);
-        Console.WriteLine(txt);
-    }
 
+    }
 }
