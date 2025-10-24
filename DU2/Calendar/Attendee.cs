@@ -4,9 +4,9 @@ namespace Calendar;
 
 public class Attendee
 {
-    string Name;
+    public string Name{get; set;}
 
-    Attendee(string name)
+    public Attendee(string name)
     {
         Name = name;
     }

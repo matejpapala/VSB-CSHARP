@@ -21,7 +21,10 @@ public class Holiday : Event, IAttendees
     }
     public Holiday(string name, DateTime start, DateTime end, string? location = null, Attendee[]? attendees = null) : base(name, start, end)
     {
-
+        _location = string.IsNullOrWhiteSpace(location) ? null : location;
+        _attendees = (attendees is { Length: > 0 })
+            ? attendees
+            : Array.Empty<Attendee>();
     }
     public override string ToString() => $"{base.ToString()} ({Location})";
 

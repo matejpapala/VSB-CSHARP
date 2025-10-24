@@ -29,7 +29,7 @@ public abstract class Event
         }
     }
     public bool isUpcoming => Start > DateTime.SpecifyKind(new DateTime(2025, 10, 15, 15, 0 ,0), DateTimeKind.Local);
-    string Name;
+    public string Name;
     
 
     public Event(string name, DateTime start, DateTime end)
