@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/bin/Debug/net9.0/cviceni7
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/bin/Debug/net9.0/cviceni7.deps.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/bin/Debug/net9.0/cviceni7.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/bin/Debug/net9.0/cviceni7.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/bin/Debug/net9.0/cviceni7.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/refint/cviceni7.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/cviceni7.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni7/cviceni7/obj/Debug/net9.0/ref/cviceni7.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OSMMapLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e692119bef7759ef1de3234199de69e827698074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d0f829b78d7d99134df5d0d2e910ff782f6915")]
 [assembly: System.Reflection.AssemblyProductAttribute("OSMMapLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OSMMapLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
