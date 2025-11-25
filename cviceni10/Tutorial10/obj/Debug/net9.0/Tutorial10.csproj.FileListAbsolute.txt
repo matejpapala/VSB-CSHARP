@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/bin/Debug/net9.0/Tutorial10
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/bin/Debug/net9.0/Tutorial10.deps.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/bin/Debug/net9.0/Tutorial10.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/bin/Debug/net9.0/Tutorial10.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/bin/Debug/net9.0/Tutorial10.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/refint/Tutorial10.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/Tutorial10.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni10/Tutorial10/obj/Debug/net9.0/ref/Tutorial10.dll

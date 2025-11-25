@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/bin/Debug/net9.0/Kontakty
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/bin/Debug/net9.0/Kontakty.deps.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/bin/Debug/net9.0/Kontakty.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/bin/Debug/net9.0/Kontakty.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/bin/Debug/net9.0/Kontakty.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/refint/Kontakty.dll
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.pdb
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/Kontakty.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/cviceni9/Kontakty/obj/Debug/net9.0/ref/Kontakty.dll

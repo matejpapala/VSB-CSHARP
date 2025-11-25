@@ -1,0 +1,4 @@
+Jan;30;jan.csharp@vsb.cz;85,6;True
+Tereza;89;tereza.csharp@vsb.cz;61;False
+Karel;;karel.csharp@vsb.cz;102,5;True
+Tomáš;14;tomas.csharp@vsb.cz;45;True

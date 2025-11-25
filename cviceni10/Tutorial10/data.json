@@ -1,0 +1,16 @@
+{
+  "name": "Jan",
+  "age": 30,
+  "ContactEmail": "jan@vsb.cz",
+  "isAlive": true,
+  "orders": [
+    {
+      "name": "Dort",
+      "price": 400
+    },
+    {
+      "name": "Koláč",
+      "price": 20.5
+    }
+  ]
+}
