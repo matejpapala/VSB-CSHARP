@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/bin/Debug/net9.0/HWFour
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/bin/Debug/net9.0/HWFour.deps.json
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/bin/Debug/net9.0/HWFour.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/bin/Debug/net9.0/HWFour.dll
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/bin/Debug/net9.0/HWFour.pdb
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.dll
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/refint/HWFour.dll
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.pdb
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/HWFour.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/du4/HWFour/obj/Debug/net9.0/ref/HWFour.dll
