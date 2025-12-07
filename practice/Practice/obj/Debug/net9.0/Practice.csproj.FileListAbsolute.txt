@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/bin/Debug/net9.0/Practice
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/bin/Debug/net9.0/Practice.deps.json
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/bin/Debug/net9.0/Practice.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/bin/Debug/net9.0/Practice.dll
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/bin/Debug/net9.0/Practice.pdb
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.dll
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/refint/Practice.dll
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.pdb
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/Practice.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/practice/Practice/obj/Debug/net9.0/ref/Practice.dll
