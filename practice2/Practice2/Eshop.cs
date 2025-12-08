@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Text.Json;
+using System.Xml.Serialization;
 
 namespace Practice2;
 
@@ -69,6 +70,13 @@ public class Eshop : IEnumerable<OrderForEnumeration>
 
         foreach(var entry in productSalesStats) {
             Console.WriteLine($"{entry.Key}: {entry.Value}");
+        }
+    }
+
+    public void SerializeToXml() {
+        XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Order>));
+        using(FileStream fs = new FileStream("data.xml", FileMode.Create)) {
+            xmlSerializer.Serialize(fs, orders);
         }
     }
 }

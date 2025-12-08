@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderId>O1004</OrderId>
+    <CustomerName>Petr Veselý</CustomerName>
+    <Status>Processing</Status>
+    <Items>
+      <Item>
+        <ProductId>P106</ProductId>
+        <ProductName>Laptop Stand</ProductName>
+        <Category>Accessories</Category>
+        <Quantity>1</Quantity>
+        <PricePerUnit>1500</PricePerUnit>
+      </Item>
+      <Item>
+        <ProductId>P103</ProductId>
+        <ProductName>Wireless Mouse</ProductName>
+        <Category>Electronics</Category>
+        <Quantity>2</Quantity>
+        <PricePerUnit>600</PricePerUnit>
+      </Item>
+    </Items>
+    <TotalAmount>2700</TotalAmount>
+  </Order>
+  <Order>
+    <OrderId>O1002</OrderId>
+    <CustomerName>Jana Kovářová</CustomerName>
+    <Status>Processing</Status>
+    <Items>
+      <Item>
+        <ProductId>P103</ProductId>
+        <ProductName>Wireless Mouse</ProductName>
+        <Category>Electronics</Category>
+        <Quantity>1</Quantity>
+        <PricePerUnit>600</PricePerUnit>
+      </Item>
+      <Item>
+        <ProductId>P101</ProductId>
+        <ProductName>Bluetooth Headphones</ProductName>
+        <Category>Electronics</Category>
+        <Quantity>3</Quantity>
+        <PricePerUnit>1200</PricePerUnit>
+      </Item>
+    </Items>
+    <TotalAmount>4200</TotalAmount>
+  </Order>
+  <Order>
+    <OrderId>O1001</OrderId>
+    <CustomerName>Tomáš Hrubý</CustomerName>
+    <Status>Shipped</Status>
+    <Items>
+      <Item>
+        <ProductId>P101</ProductId>
+        <ProductName>Bluetooth Headphones</ProductName>
+        <Category>Electronics</Category>
+        <Quantity>2</Quantity>
+        <PricePerUnit>1200</PricePerUnit>
+      </Item>
+      <Item>
+        <ProductId>P102</ProductId>
+        <ProductName>Smart Watch</ProductName>
+        <Category>Electronics</Category>
+        <Quantity>1</Quantity>
+        <PricePerUnit>2500</PricePerUnit>
+      </Item>
+    </Items>
+    <TotalAmount>4900</TotalAmount>
+  </Order>
+  <Order>
+    <OrderId>O1005</OrderId>
+    <CustomerName>Eva Svobodová</CustomerName>
+    <Status>Delivered</Status>
+    <Items>
+      <Item>
+        <ProductId>P107</ProductId>
+        <ProductName>Desk Lamp</ProductName>
+        <Category>Home Office</Category>
+        <Quantity>1</Quantity>
+        <PricePerUnit>800</PricePerUnit>
+      </Item>
+      <Item>
+        <ProductId>P105</ProductId>
+        <ProductName>Gaming Chair</ProductName>
+        <Category>Furniture</Category>
+        <Quantity>1</Quantity>
+        <PricePerUnit>5000</PricePerUnit>
+      </Item>
+    </Items>
+    <TotalAmount>5800</TotalAmount>
+  </Order>
+  <Order>
+    <OrderId>O1003</OrderId>
+    <CustomerName>Lucie Novotná</CustomerName>
+    <Status>Delivered</Status>
+    <Items>
+      <Item>
+        <ProductId>P105</ProductId>
+        <ProductName>Gaming Chair</ProductName>
+        <Category>Furniture</Category>
+        <Quantity>1</Quantity>
+        <PricePerUnit>5000</PricePerUnit>
+      </Item>
+      <Item>
+        <ProductId>P102</ProductId>
+        <ProductName>Smart Watch</ProductName>
+        <Category>Electronics</Category>
+        <Quantity>2</Quantity>
+        <PricePerUnit>2500</PricePerUnit>
+      </Item>
+    </Items>
+    <TotalAmount>10000</TotalAmount>
+  </Order>
+</ArrayOfOrder>
