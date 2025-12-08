@@ -1,0 +1,112 @@
+[
+  {
+    "orderId": "O1001",
+    "customerName": "Tomáš Hrubý",
+    "status": "Shipped",
+    "items": [
+      {
+        "productId": "P101",
+        "productName": "Bluetooth Headphones",
+        "category": "Electronics",
+        "quantity": 2,
+        "pricePerUnit": 1200
+      },
+      {
+        "productId": "P102",
+        "productName": "Smart Watch",
+        "category": "Electronics",
+        "quantity": 1,
+        "pricePerUnit": 2500
+      }
+    ],
+    "totalAmount": 4900
+  },
+  {
+    "orderId": "O1002",
+    "customerName": "Jana Kovářová",
+    "status": "Processing",
+    "items": [
+      {
+        "productId": "P103",
+        "productName": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 1,
+        "pricePerUnit": 600
+      },
+      {
+        "productId": "P101",
+        "productName": "Bluetooth Headphones",
+        "category": "Electronics",
+        "quantity": 3,
+        "pricePerUnit": 1200
+      }
+    ],
+    "totalAmount": 4200
+  },
+  {
+    "orderId": "O1003",
+    "customerName": "Lucie Novotná",
+    "status": "Delivered",
+    "items": [
+      {
+        "productId": "P105",
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "quantity": 1,
+        "pricePerUnit": 5000
+      },
+      {
+        "productId": "P102",
+        "productName": "Smart Watch",
+        "category": "Electronics",
+        "quantity": 2,
+        "pricePerUnit": 2500
+      }
+    ],
+    "totalAmount": 10000
+  },
+  {
+    "orderId": "O1004",
+    "customerName": "Petr Veselý",
+    "status": "Processing",
+    "items": [
+      {
+        "productId": "P106",
+        "productName": "Laptop Stand",
+        "category": "Accessories",
+        "quantity": 1,
+        "pricePerUnit": 1500
+      },
+      {
+        "productId": "P103",
+        "productName": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "pricePerUnit": 600
+      }
+    ],
+    "totalAmount": 2700
+  },
+  {
+    "orderId": "O1005",
+    "customerName": "Eva Svobodová",
+    "status": "Delivered",
+    "items": [
+      {
+        "productId": "P107",
+        "productName": "Desk Lamp",
+        "category": "Home Office",
+        "quantity": 1,
+        "pricePerUnit": 800
+      },
+      {
+        "productId": "P105",
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "quantity": 1,
+        "pricePerUnit": 5000
+      }
+    ],
+    "totalAmount": 5800
+  }
+]
