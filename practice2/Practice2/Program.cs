@@ -45,5 +45,6 @@ class Program
 
         eshop.SaveToBinary();
         eshop.SerializeToXml();
+        eshop.SerializeToJson();
     }
 }

@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Text;
 using System.Text.Json;
 using System.Xml.Serialization;
 
@@ -42,9 +43,9 @@ public class Eshop : IEnumerable<OrderForEnumeration>
     }
 
     public void SaveToBinary() {
-        FileStream fs = new FileStream("data.bin", FileMode.Create);
-        BinaryWriter binaryWriter = new BinaryWriter(fs);
-        binaryWriter.Write(orders.Count);
+        using (FileStream fs = new FileStream("data.bin", FileMode.Create))
+        using (BinaryWriter binaryWriter = new BinaryWriter(fs)) {
+            binaryWriter.Write(orders.Count);
         foreach(Order order in orders) {
             binaryWriter.Write(order.CustomerName);
             binaryWriter.Write(order.Items.Count);
@@ -52,6 +53,7 @@ public class Eshop : IEnumerable<OrderForEnumeration>
                 binaryWriter.Write(item.ProductName);
                 binaryWriter.Write(item.Quantity);
             }
+        }
         }
     }
 
@@ -77,6 +79,16 @@ public class Eshop : IEnumerable<OrderForEnumeration>
         XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Order>));
         using(FileStream fs = new FileStream("data.xml", FileMode.Create)) {
             xmlSerializer.Serialize(fs, orders);
+        }
+    }
+
+    public void SerializeToJson() {
+        using(FileStream fs = new FileStream("serialized.json", FileMode.Create)) {
+            var options = new JsonSerializerOptions {
+            PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+            WriteIndented = true,
+            };
+            JsonSerializer.Serialize(fs, orders, options);
         }
     }
 }
