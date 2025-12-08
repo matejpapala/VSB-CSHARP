@@ -91,4 +91,17 @@ public class Eshop : IEnumerable<OrderForEnumeration>
             JsonSerializer.Serialize(fs, orders, options);
         }
     }
+
+    public List<Order> DeserializeFromXml() {
+        List<Order> result = new List<Order>();
+        XmlSerializer xml = new XmlSerializer(typeof(List<Order>));
+        using(FileStream fs = new FileStream("data.xml", FileMode.Open)) {
+            using(StreamReader sr = new StreamReader(fs))
+            {
+                result = (List<Order>)xml.Deserialize(fs);
+                return result;
+            }
+            
+        }
+    }
 }

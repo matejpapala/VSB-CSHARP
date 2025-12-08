@@ -46,5 +46,9 @@ class Program
         eshop.SaveToBinary();
         eshop.SerializeToXml();
         eshop.SerializeToJson();
+        List<Order> result = eshop.DeserializeFromXml();
+        foreach(Order order1 in result) {
+            Console.WriteLine(order1.CustomerName);
+        }
     }
 }
