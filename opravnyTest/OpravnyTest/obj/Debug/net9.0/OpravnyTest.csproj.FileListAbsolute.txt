@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/bin/Debug/net9.0/OpravnyTest
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/bin/Debug/net9.0/OpravnyTest.deps.json
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/bin/Debug/net9.0/OpravnyTest.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/bin/Debug/net9.0/OpravnyTest.dll
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/bin/Debug/net9.0/OpravnyTest.pdb
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.dll
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/refint/OpravnyTest.dll
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.pdb
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/OpravnyTest.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/opravnyTest/OpravnyTest/obj/Debug/net9.0/ref/OpravnyTest.dll
