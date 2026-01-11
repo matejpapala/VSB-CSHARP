@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SkladPotravin>
+  <Zbozi id="201" trvanlivost="2024-05-10">
+    <Nazev>Mleko trvanlive</Nazev>
+    <Vaha>1.0</Vaha>
+    <PocetKusu>100</PocetKusu>
+    <Typ>Mlecne vyrobky</Typ>
+  </Zbozi>
+  <Zbozi id="202" trvanlivost="2023-12-01">
+    <Nazev>Chleb konzumni</Nazev>
+    <Vaha>0.5</Vaha>
+    <PocetKusu>0</PocetKusu>
+    <Typ>Pecivo</Typ>
+  </Zbozi>
+  <Zbozi id="203" trvanlivost="2025-01-01">
+    <Nazev>Konzerva fazole</Nazev>
+    <Vaha>0.4</Vaha>
+    <PocetKusu>20</PocetKusu>
+    <Typ>Trvanlive</Typ>
+  </Zbozi>
+</SkladPotravin>

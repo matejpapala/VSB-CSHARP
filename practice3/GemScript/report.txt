@@ -1,0 +1,4 @@
+!Potravina | ID: 203 | Konzerva fazole | Mnozstvi: 20 | Expirace: 01.01.2025 0:00:00
+!Potravina | ID: 201 | Mleko trvanlive | Mnozstvi: 100 | Expirace: 10.05.2024 0:00:00
+Elektronika | ID: 101 | Notebook Pro X | Mnozstvi: 5 | Krehke: False
+Elektronika | ID: 102 | USB Kabel 2m | Mnozstvi: 50 | Krehke: False

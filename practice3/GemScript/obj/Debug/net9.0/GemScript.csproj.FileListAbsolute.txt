@@ -1,0 +1,15 @@
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/bin/Debug/net9.0/GemScript
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/bin/Debug/net9.0/GemScript.deps.json
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/bin/Debug/net9.0/GemScript.runtimeconfig.json
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/bin/Debug/net9.0/GemScript.dll
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/bin/Debug/net9.0/GemScript.pdb
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.AssemblyInfoInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.AssemblyInfo.cs
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.csproj.CoreCompileInputs.cache
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.sourcelink.json
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.dll
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/refint/GemScript.dll
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.pdb
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/GemScript.genruntimeconfig.cache
+/Users/matejpapala/School/VSB-CSHARP/practice3/GemScript/obj/Debug/net9.0/ref/GemScript.dll

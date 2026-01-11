@@ -1,0 +1,36 @@
+{
+    "dodavatel": "TechWorld s.r.o.",
+    "datum_naskladneni": "2024-01-20",
+    "polozky": [
+      {
+        "id": 101,
+        "nazev": "Notebook Pro X",
+        "mnozstvi": 5,
+        "specs": {
+          "vaha_kg": 2.5,
+          "kategorie": "Laptop",
+          "krehke": true
+        }
+      },
+      {
+        "id": 102,
+        "nazev": "USB Kabel 2m",
+        "mnozstvi": 50,
+        "specs": {
+          "vaha_kg": 0.1,
+          "kategorie": "Prislusenstvi",
+          "krehke": false
+        }
+      },
+      {
+        "id": 103,
+        "nazev": "Monitor 27 palcu",
+        "mnozstvi": 0,
+        "specs": {
+          "vaha_kg": 6.0,
+          "kategorie": "Monitor",
+          "krehke": true
+        }
+      }
+    ]
+  }
